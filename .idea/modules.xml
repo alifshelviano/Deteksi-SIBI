@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TFLite_Object_Detection_Demo_App.iml" filepath="$PROJECT_DIR$/.idea/modules/TFLite_Object_Detection_Demo_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TFLite_Object_Detection_Demo_App.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/TFLite_Object_Detection_Demo_App.lib_interpreter.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/TFLite_Object_Detection_Demo_App.lib_task_api.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:shape="rectangle">
+   >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#2867ed" />
+
+    <TextView
+        android:layout_width="228dp"
+        android:layout_height="56dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="184dp"
+        android:layout_marginBottom="4dp"
+        android:gravity="center"
+        android:shadowColor="#f5f6fa"
+        android:text="Deteksi SIBI"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="258dp"
+        android:layout_height="77dp"
+        android:layout_above="@+id/button"
+
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="94dp"
+        android:layout_marginEnd="73dp"
+        android:layout_marginBottom="52dp"
+        android:gravity="center"
+        android:text="Klik untuk mulai"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+
+        android:layout_above="@+id/button2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="95dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="47dp"
+        android:background="@drawable/btn_"
+        android:text="Mulai Deteksi" />
+
+    <Button
+        android:id="@+id/button2"
+
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="95dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="285dp"
+        android:background="@drawable/btn_"
+        android:text="Abjad SIBI" />
+
+    <Button
+        android:id="@+id/button3"
+
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="97dp"
+        android:layout_marginEnd="94dp"
+        android:layout_marginBottom="184dp"
+        android:background="@drawable/btn_"
+       android:outlineAmbientShadowColor="@color/red"
+        android:text="Keluar" />
+
+</RelativeLayout>

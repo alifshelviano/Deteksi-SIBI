@@ -1,12 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.android.material:material:1.0.0@aar">
+  <library name="Gradle: com.google.android.material:material:1.0.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cd072ebb93bda4bd9f615f48d089670a/transformed/material-1.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/jdk-22_windows-x64_bin/caches/transforms-3/4f8194aed722b1673ce4197bdb30720a/transformed/material-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cd072ebb93bda4bd9f615f48d089670a/transformed/material-1.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd072ebb93bda4bd9f615f48d089670a/transformed/material-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd072ebb93bda4bd9f615f48d089670a/transformed/material-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/jdk-22_windows-x64_bin/caches/transforms-3/4f8194aed722b1673ce4197bdb30720a/transformed/material-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/jdk-22_windows-x64_bin/caches/transforms-3/4f8194aed722b1673ce4197bdb30720a/transformed/material-1.0.0/res" />
+      <root url="jar://$USER_HOME$/jdk-22_windows-x64_bin/caches/transforms-3/4f8194aed722b1673ce4197bdb30720a/transformed/material-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

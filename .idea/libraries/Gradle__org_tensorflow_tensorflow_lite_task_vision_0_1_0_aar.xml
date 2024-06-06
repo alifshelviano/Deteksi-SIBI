@@ -1,8 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: org.tensorflow:tensorflow-lite-task-vision:0.1.0@aar">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-task-vision:0.1.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1609146a6f65896bb2642fe0310c03fb/transformed/jetified-tensorflow-lite-task-vision-0.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1609146a6f65896bb2642fe0310c03fb/transformed/jetified-tensorflow-lite-task-vision-0.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/jdk-22_windows-x64_bin/caches/transforms-3/5c0b0c995a6fef3ab50824995a736e5d/transformed/jetified-tensorflow-lite-task-vision-0.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/jdk-22_windows-x64_bin/caches/transforms-3/5c0b0c995a6fef3ab50824995a736e5d/transformed/jetified-tensorflow-lite-task-vision-0.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

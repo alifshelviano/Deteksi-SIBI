@@ -8,7 +8,7 @@ INJECTED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\li
 INJECTED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\lib_interpreter\src\main\AndroidManifest.xml:1:1-3:12
 INJECTED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\lib_interpreter\src\main\AndroidManifest.xml:1:1-3:12
 	package
-		ADDED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\lib_interpreter\src\main\AndroidManifest.xml:2:5-60
+		ADDED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\lib_interpreter\src\main\AndroidManifest.xml:2:5-58
 		INJECTED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\lib_interpreter\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\alifs\Desktop\Kuliah Gunadarma\Skripsi\android\android\lib_interpreter\src\main\AndroidManifest.xml
 	android:versionName

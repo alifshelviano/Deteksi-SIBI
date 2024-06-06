@@ -1,4 +1,4 @@
-org.tensorflow.lite.examples.detection.tflite
+org.tensorflow.lite.examples.deteksi.tflite
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom

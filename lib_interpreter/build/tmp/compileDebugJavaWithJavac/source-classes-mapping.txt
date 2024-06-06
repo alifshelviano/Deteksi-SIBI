@@ -1,7 +1,7 @@
-org/tensorflow/lite/examples/detection/tflite/TFLiteObjectDetectionAPIModel.java
- org.tensorflow.lite.examples.detection.tflite.TFLiteObjectDetectionAPIModel
-org/tensorflow/lite/examples/detection/tflite/Detector.java
- org.tensorflow.lite.examples.detection.tflite.Detector
- org.tensorflow.lite.examples.detection.tflite.Detector$Recognition
-org/tensorflow/lite/examples/detection/tflite/BuildConfig.java
- org.tensorflow.lite.examples.detection.tflite.BuildConfig
+org/tensorflow/lite/examples/deteksi/tflite/BuildConfig.java
+ org.tensorflow.lite.examples.deteksi.tflite.BuildConfig
+com/aldev/lite/SIBI/deteksi/tflite/Detector.java
+ com.aldev.lite.SIBI.deteksi.tflite.Detector
+ com.aldev.lite.SIBI.deteksi.tflite.Detector$Recognition
+com/aldev/lite/SIBI/deteksi/tflite/TFLiteObjectDetectionAPIModel.java
+ com.aldev.lite.SIBI.deteksi.tflite.TFLiteObjectDetectionAPIModel

@@ -53,40 +53,43 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="65dp"
-
+        android:textColor="@color/tfe_color_primary"
         android:layout_above="@+id/button2"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="95dp"
         android:layout_marginEnd="92dp"
+        android:textSize="18dp"
         android:layout_marginBottom="47dp"
         android:background="@drawable/btn_"
         android:text="Mulai Deteksi" />
 
-    <Button
-        android:id="@+id/button2"
-
-        android:layout_width="wrap_content"
-        android:layout_height="65dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_centerInParent="true"
-        android:layout_marginStart="95dp"
-        android:layout_marginEnd="92dp"
-        android:layout_marginBottom="285dp"
-        android:background="@drawable/btn_"
-        android:text="Abjad SIBI" />
+ <Button
+     android:id="@+id/button2"
+     android:textColor="@color/tfe_color_primary"
+     android:layout_width="wrap_content"
+     android:layout_height="65dp"
+     android:textSize="18dp"
+     android:layout_alignParentStart="true"
+     android:layout_alignParentEnd="true"
+     android:layout_alignParentBottom="true"
+     android:layout_centerInParent="true"
+     android:layout_marginStart="95dp"
+     android:layout_marginEnd="92dp"
+     android:layout_marginBottom="285dp"
+     android:background="@drawable/btn_"
+     android:text="Abjad SIBI" />
 
     <Button
         android:id="@+id/button3"
-
+        android:textColor="@color/tfe_color_primary"
         android:layout_width="wrap_content"
         android:layout_height="65dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
+        android:textSize="18dp"
         android:layout_marginStart="97dp"
         android:layout_marginEnd="94dp"
         android:layout_marginBottom="184dp"

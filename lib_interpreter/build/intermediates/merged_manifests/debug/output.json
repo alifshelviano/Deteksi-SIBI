@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "org.tensorflow.lite.examples.detection.tflite",
+  "applicationId": "org.tensorflow.lite.examples.deteksi.tflite",
   "variantType": "LIBRARY",
   "elements": [
     {
@@ -10,8 +10,8 @@
       "apkData": {
         "type": "MAIN",
         "splits": [],
-        "versionCode": 1,
-        "versionName": "1.0",
+        "versionCode": 4,
+        "versionName": "1.1",
         "outputFile": "lib_interpreter-debug.aar",
         "fullName": "debug",
         "baseName": "debug",
@@ -19,7 +19,7 @@
       },
       "path": "../../library_manifest/debug/AndroidManifest.xml",
       "properties": {
-        "packageId": "org.tensorflow.lite.examples.detection.tflite",
+        "packageId": "org.tensorflow.lite.examples.deteksi.tflite",
         "split": ""
       }
     }
